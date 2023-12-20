@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Be the Business | Prototype</title>
-    <link>https://example.org/about/</link>
+    <link>https://bilal-btb.github.io/about/</link>
     <description>Recent content in Abouts on Be the Business | Prototype</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bilal-btb.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://example.org/about/about/</link>
+      <link>https://bilal-btb.github.io/about/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/about/about/</guid>
+      <guid>https://bilal-btb.github.io/about/about/</guid>
       <description></description>
     </item>
   </channel>
